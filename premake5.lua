@@ -8,7 +8,7 @@ project "assimp"
 
 	files
 	{
-		"include/**.h"
+		"include/**.h",
 		"include/**.hpp"
 	}
 
